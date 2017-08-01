@@ -1,4 +1,6 @@
 Conversion functions needed:
+
  - Dollars to cents
  - Galons to liters
  - Hours to minutes
+ - Feet to inches
